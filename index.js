@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Criskoo le boss"];
+const statusMessages = [".gg/elasuka"];
 
 
 let currentIndex = 0;
